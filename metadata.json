@@ -1,0 +1,7 @@
+
+{
+  "name": "Geo Explorer",
+  "description": "A GeoGuessr-like game built with React. Explore random Street View locations in single-player or compete against a friend in a two-player hot-seat mode. Guess your position on the map, and see how close you can get. The closer you are, the more points you score!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

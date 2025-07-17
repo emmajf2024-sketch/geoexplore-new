@@ -1,5 +1,6 @@
 # GeoExplorer
 
+INFO
 GeoExplorer is a web-based geography game that challenges players to explore the world and guess their location based on Google Street View imagery. Inspired by the popular game GeoGuessr, this project is built with modern web technologies and provides a fun and interactive way to test your geographical knowledge.
 
 ## Features
